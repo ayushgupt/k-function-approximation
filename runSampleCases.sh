@@ -17,12 +17,12 @@ echo "time taken for case3 :"
 ./checkError ../sampleTestCases/inp3.txt myout3.txt
 
 echo "time taken for case4 :"
-# /usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp4.txt > myout4.txt
-# ./checkError ../sampleTestCases/inp4.txt myout4.txt
+/usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp4.txt > myout4.txt
+./checkError ../sampleTestCases/inp4.txt myout4.txt
 
 echo "time taken for case5 :"
-# /usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp5.txt > myout5.txt
-# ./checkError ../sampleTestCases/inp5.txt myout5.txt
+/usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp5.txt > myout5.txt
+./checkError ../sampleTestCases/inp5.txt myout5.txt
 
 echo "time taken for case6 :"
 /usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp6.txt > myout6.txt
