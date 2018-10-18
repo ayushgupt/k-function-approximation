@@ -34,7 +34,7 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
 - name of your executable should be **stepDp**
 - Submission needs to be done on Moodle
   
-## Check if Submission is correct
+## Check if Submission Zip file is in correct format
 - You can check whether your zip file is in required format using the check script which will run your submission on sample test-cases using the below steps
   - Clone/Download this repository to your local machine 
   - Give executing permission to 'getErrorOfCorrectSolutions.sh' and 'runSampleCases.sh' (using chmod)
