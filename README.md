@@ -18,7 +18,7 @@ The next N lines contains space seperated value of x-coordinate and y-coordinate
 The first line of output should contain number of levels in your step function(say S)  
 Next S lines should contain space seperated values of x-coordinate and y-coordinate of step  
 
-# Points to Note
+## Points to Note
 - X-coordinate of points in the input file will be strictly increasing  
 - X-coordinate of points in the output should also be strictly increasing
 - Suppose your step function contains 3 points (s1_x,s1_y),(s2_x,s2_y),(s3_x,s3_y); This means your step function's value is s1_y for [s1_x,s2_x), s2_y for [s2_x,s2_y) and s3_y for [s3_x,infinity)
