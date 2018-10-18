@@ -41,4 +41,4 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
   - See the expected errors for Sample Inputs using **"sh getErrorOfCorrectSolutions.sh"**
   - Copy paste your zip file (say 2018MCS0001.zip) to this directory
   - Run your zip file code using **"sh runSampleCases.sh 2018MCS0001"**
-- **There's a penalty of 20% for not following these instructions. So, do check using above script before submitting.**
+- **There's a penalty of 20% for submissions in improper format. So, do check using above script before submitting.**
