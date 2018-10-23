@@ -42,3 +42,26 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
   - Copy paste your zip file (say 2018MCS0001.zip) to this directory
   - Run your zip file code using **"sh runSampleCases.sh 2018MCS0001"**
 - **There's a penalty of 20% for submissions in improper format. So, do check using above script before submitting.**
+
+## Explanation of error and output step format
+Suppose Input points are:
+**(1,4),(3,3),(5,5),(7,1)**
+
+Consider a non-optimal output being as follows:  
+**3  
+1 5  
+3 2  
+5 4**    
+This corresponds to the step function as represented in image below:  
+<img src="https://github.com/ayushgupt/k-function-approximation/blob/master/stepImage.jpg?raw=true" width="500">  
+Distances of input points for wrt. above step function are
+**d1=1,d2=1,d3=1,d4=3**
+
+Now if input asks for 
+- Max Error
+  - Error = max(d1,d2,d3,d4) = 3
+- Mean Squared Error
+  - Error = mean(d1<sup>2</sup>,d2<sup>2</sup>,d3<sup>2</sup>,d4<sup>2</sup>) = 12/4 = 3
+
+
+
