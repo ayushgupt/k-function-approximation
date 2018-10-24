@@ -24,7 +24,8 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
 - X-coordinate of points in the output should also be strictly increasing
 - Suppose your step function contains 3 points (s1_x,s1_y),(s2_x,s2_y),(s3_x,s3_y); This means your step function's value is s1_y for \[s1_x,s2_x), s2_y for \[s2_x,s2_y) and s3_y for \[s3_x,infinity)
 - So, you need to take care that step function should be defined from the smallest x-coordinate in input
-- you should write only one DP that calls two different error functions to compute the best k-step approximation
+- You should write only one DP that calls two different error functions to compute the best k-step approximation
+- Correctness of your output will be checked by seeing you output error wrt. minimum error for that testcase.
 
 ## Submission Instructions
 - Create a zip file with all your source code, "Makefile" file and pl.txt
