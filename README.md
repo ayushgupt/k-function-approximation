@@ -43,7 +43,8 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
   - Copy paste your zip file (say 2018MCS0001.zip) to this directory
   - Run your zip file code using **"sh runSampleCases.sh 2018MCS0001"**
 - **There's a penalty of 20% for submissions in improper format. So, do check using above script before submitting.**
-- **If your Zip format is correct, then on running "sh 2018MCS001(your entry number)" will give you an output like this**  
+- **If your Zip format is correct, then on running "sh 2018MCS001(your entry number)" will give you an output similar to**  
+  #############START_OUTPUT###################  
   *time taken for case1 :  
   0.48  
   Mean Squared Error: 0  
@@ -71,8 +72,8 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
   time taken for case9 :  
   1.95  
   Max Error: 497  
-  Python/C++/Java*
-
+  Python/C++/Java*  
+  #############END_OUTPUT###################
 
 
 
