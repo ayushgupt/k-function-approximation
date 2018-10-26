@@ -43,6 +43,38 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
   - Copy paste your zip file (say 2018MCS0001.zip) to this directory
   - Run your zip file code using **"sh runSampleCases.sh 2018MCS0001"**
 - **There's a penalty of 20% for submissions in improper format. So, do check using above script before submitting.**
+- **If your Zip format is correct, then on running "sh 2018MCS001(your entry number)" will give you an output like this**  
+  time taken for case1 :  
+  0.48  
+  Mean Squared Error: 0  
+  time taken for case2 :  
+  0.49  
+  Mean Squared Error: 78438.4  
+  time taken for case3 :  
+  1.28  
+  Mean Squared Error: 78887.9  
+  time taken for case4 :  
+  0.53  
+  Mean Squared Error: 0  
+  time taken for case5 :  
+  0.52  
+  Max Error: 0  
+  time taken for case6 :  
+  0.50  
+  Max Error: 0  
+  time taken for case7 :  
+  0.48  
+  Max Error: 285  
+  time taken for case8 :  
+  0.49  
+  Max Error: 467  
+  time taken for case9 :  
+  1.95  
+  Max Error: 497  
+  Python/C++/Java
+
+
+
 
 ## Explanation of error and output step format
 Suppose Input points are:
@@ -63,6 +95,7 @@ Now if input asks for
   - Error = max(d1,d2,d3,d4) = 3
 - Mean Squared Error
   - Error = mean(d1<sup>2</sup>,d2<sup>2</sup>,d3<sup>2</sup>,d4<sup>2</sup>) = 12/4 = 3
+
 
 
 
