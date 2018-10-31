@@ -17,3 +17,7 @@ echo "Best case Error 8 :"
 ./checkError ./sampleTestCases/inp8.txt ./sampleTestCases/out8.txt
 echo "Best case Error 9 :"
 ./checkError ./sampleTestCases/inp9.txt ./sampleTestCases/out9.txt
+echo "Best case Error 10 :"
+./checkError ./sampleTestCases/inp10.txt ./sampleTestCases/out10.txt
+echo "Best case Error 11 :"
+./checkError ./sampleTestCases/inp11.txt ./sampleTestCases/out11.txt

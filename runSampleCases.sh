@@ -40,4 +40,13 @@ echo "time taken for case9 :"
 /usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp9.txt > myout9.txt
 ./checkError ../sampleTestCases/inp9.txt myout9.txt
 
+echo "time taken for case10 :"
+/usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp10.txt > myout10.txt
+./checkError ../sampleTestCases/inp10.txt myout10.txt
+
+echo "time taken for case11 :"
+/usr/bin/time -f "%e" ./stepDp < ../sampleTestCases/inp11.txt > myout11.txt
+./checkError ../sampleTestCases/inp11.txt myout11.txt
+
+
 head -1 pl.txt
