@@ -45,34 +45,40 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
 - **There's a penalty of 20% for submissions in improper format. So, do check using above script before submitting.**
 - **If your Zip format is correct, then running "sh 2018MCS001(your entry number)" will give you an output similar to**  
   #############START_OUTPUT###################  
-  *time taken for case1 :  
-  0.48  
-  Mean Squared Error: 0  
-  time taken for case2 :  
-  0.49  
-  Mean Squared Error: 78438.4  
-  time taken for case3 :  
-  1.28  
-  Mean Squared Error: 78887.9  
-  time taken for case4 :  
-  0.53  
-  Mean Squared Error: 0  
-  time taken for case5 :  
-  0.52  
-  Max Error: 0  
-  time taken for case6 :  
-  0.50  
-  Max Error: 0  
-  time taken for case7 :  
-  0.48  
-  Max Error: 285  
-  time taken for case8 :  
-  0.49  
-  Max Error: 467  
-  time taken for case9 :  
-  1.95  
-  Max Error: 497  
-  Python/C++/Java*  
+    *time taken for case1 :  
+    0.46  
+    Mean Squared Error: 0  
+    time taken for case2 :  
+    0.46  
+    Mean Squared Error: 78438.4  
+    time taken for case3 :  
+    1.26  
+    Mean Squared Error: 78887.9  
+    time taken for case4 :  
+    0.51  
+    Mean Squared Error: 0  
+    time taken for case5 :  
+    0.53  
+    Max Error: 0  
+    time taken for case6 :  
+    0.47  
+    Max Error: 0  
+    time taken for case7 :  
+    0.45  
+    Max Error: 285  
+    time taken for case8 :  
+    0.47  
+    Max Error: 467  
+    time taken for case9 :  
+    1.94  
+    Max Error: 497  
+    time taken for case10 :  
+    6.17  
+    Max Error: 4965.5  
+    time taken for case11 :  
+    29.37  
+    Max Error: 4813.5   
+    Python/C++/Java*    
   #############END_OUTPUT###################
 
 
