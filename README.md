@@ -41,7 +41,7 @@ Next S lines should contain space seperated values of x-coordinate and y-coordin
   - Give executing permission to 'getErrorOfCorrectSolutions.sh' and 'runSampleCases.sh' (using chmod)
   - See the expected errors for Sample Inputs using **"sh getErrorOfCorrectSolutions.sh"**
   - Copy paste your zip file (say 2018MCS0001.zip) to this directory
-  - Run your zip file code using **"sh runSampleCases.sh 2018MCS0001"**
+  - Run your zip file code using **"sh runSampleCases.sh 2018MCS0001"(runSampleCasesJava.sh for Java)**
 - **There's a penalty of 20% for submissions in improper format. So, do check using above script before submitting.**
 - **If your Zip format is correct, then running "sh 2018MCS001(your entry number)" will give you an output similar to**  
   #############START_OUTPUT###################  
