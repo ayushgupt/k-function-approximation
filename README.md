@@ -105,7 +105,29 @@ Now if input asks for
 
 ## Test Cases used for grading are added in gradeTestCases
 
-**getErrorOfCorrectSolutions_graded.sh** can be used for getting the error of these test cases
+**getErrorOfCorrectSolutions_graded.sh** can be used for getting the error of these test cases  
+*Following are the errors:  
+Best case Error 1 :  
+Mean Squared Error: 6437056.2923  
+Best case Error 2 :  
+Mean Squared Error: 5922747.2885  
+Best case Error 3 :  
+Mean Squared Error: 3987817.5891  
+Best case Error 4 :  
+Max Error: 3251.0000  
+Best case Error 5 :  
+Max Error: 3333.5000  
+Best case Error 6 :  
+Max Error: 2472.5000  
+Best case Error 7 :  
+Mean Squared Error: 7614390.8653  
+Best case Error 8 :  
+Mean Squared Error: 4861157.6093  
+Best case Error 9 :  
+Max Error: 4641.5000  
+Best case Error 10 :  
+Max Error: 4655.0000*  
+
 
 
 
