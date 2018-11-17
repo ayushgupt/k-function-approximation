@@ -177,11 +177,11 @@ int main(int argc, char* argv[])
     {
     	if(typeError==0)
     	{
-    		cout<< "Mean Squared Error: "<< totalError << endl;
+    		cout<< "Mean Squared Error: "<<fixed << setprecision(4) << totalError << endl;
     	}
     	else
     	{
-    		cout<< "Max Error: "<< totalError << endl;
+    		cout<< "Max Error: "<< fixed << setprecision(4) <<totalError << endl;
     	}
     }
     return 0;
