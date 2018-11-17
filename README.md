@@ -103,6 +103,9 @@ Now if input asks for
 - Mean Squared Error
   - Error = mean(d1<sup>2</sup>,d2<sup>2</sup>,d3<sup>2</sup>,d4<sup>2</sup>) = 12/4 = 3
 
+## Test Cases used for grading are added in gradeTestCases
+
+**getErrorOfCorrectSolutions_graded.sh** can be used for getting the error of these test cases
 
 
 
